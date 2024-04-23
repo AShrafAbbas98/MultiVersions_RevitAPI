@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Muli_Versioning</Name>
+		<Assembly>MultiVersions_RevitAPI.dll</Assembly>
+		<FullClassName>MultiVersions_RevitAPI.Command</FullClassName>
+		<Text>Muli_Versioning</Text>
+		<Description>This plugin is testing multversioning</Description>
+		<AddInId>BA6B490F-92EB-439D-B077-BD979CB680BA</AddInId>
+		<VendorId>Ashraf</VendorId>
+		<VendorDescription>BIM Developer, ashrafabbasramadan@gmail.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
